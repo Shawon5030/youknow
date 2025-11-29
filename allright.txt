@@ -1,5 +1,14 @@
 [
-  {"SHAWON-6B86-E50E-4454": "2025-11-2"},
-  {"SHAWON-BAE2-63A9-9CB9": "2025-12-5"},
-  {"SHAWON-BA72-1779-244F": "2025-12-9"}
+  {
+    "SHAWON-6B86-E50E-4454": "2025-11-2",
+    "comment": "Shawon main PC license"
+  },
+  {
+    "SHAWON-BAE2-63A9-9CB9": "2025-12-5",
+    "comment": "Customer 1"
+  },
+  {
+    "SHAWON-BA72-1779-244F": "2025-12-9",
+    "comment": "Customer 2"
+  }
 ]
