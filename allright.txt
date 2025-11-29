@@ -7,16 +7,4 @@
     "SHAWON-BAE2-63A9-9CB9": "2025-12-5",
     "comment": "Customer 1"
   },
-  {
-    "SHAWON-BA72-1779-244F": "2025-12-9",
-    "comment": "Customer 2"
-  }
-]
-
-  },
-  {
-    "SHAWON-83D5-58E1-4DA3": "2025-12-9",
-    "comment": "Customer 2"
-  }
-]
 
